@@ -32,3 +32,6 @@ This Python script performs time series forecasting using the AutoARIMA model. I
 - `README.md`: This README file providing instructions and information about the script.
 - `data.csv`: Sample time series data file (replace this with your own data file).
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
